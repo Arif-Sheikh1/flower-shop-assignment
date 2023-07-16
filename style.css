@@ -1,0 +1,15 @@
+.header-coentnt{
+    padding:80px 300px 250px 200px;
+    align-items: center;
+
+}
+.header-img{
+    width: 80px;
+    height: 150px;
+    align-items: center;
+}
+.header-section{
+    display: flex;
+    background-color: antiquewhite;
+    height: 500px;
+}
