@@ -13,3 +13,100 @@
     background-color: antiquewhite;
     height: 500px;
 }
+.head-btn{
+    background-color:#E55473 ;
+    padding: 10px 15px;
+    border: none;
+    border-radius:5px;
+}
+.div1{
+    text-align:center;
+    padding:60px;
+}
+.flower-container {
+    display: flex; 
+    justify-content: center;
+}
+#pinkflower{
+    width: 300px;
+    height: 400px;
+    background-color: #ffb7dad0;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+#red-flower{
+    width: 300px;
+    height: 400px;
+    background-color: #0597A026;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+#yellow-flower{
+    width: 300px;
+    height: 400px;
+    background-color: #9eaf8ebb;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    /* background-size: contain; */
+}
+.flower-container div {
+    justify-content: center;
+    margin-left: 8px;  
+}
+#info{
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    text-align: center;
+    margin-left:140px;
+}
+#info div {
+    padding: 5px;
+    margin-left: 25px;
+}
+#offer {
+    display: flex;
+    text-align: center;
+    background-color: #fdcfdad5;
+}
+#offer .offer-text {
+    padding-top:100px ;
+    padding-left:200px ;
+}
+.offer-text p {
+    font-size:15px;
+    height: 10px;
+    width: 600px;
+}
+.offer-text button {
+    height:40px;
+    width: 80px;
+    color: white;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+}
+#offer-img {
+    margin-left: 70px;
+}
+#social-media{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  
+}
+.demo-flower{
+    /* width: 400px; */
+    display:flex;
+   justify-content: center;
+}
+.demo-flower img {
+    height: 300px;
+    width: 250px;
+    margin-left: 20px;
+    
+    
+    
+}
