@@ -107,6 +107,42 @@
     width: 250px;
     margin-left: 20px;
     
+}
+#importance-text{
+    margin-top: 70px;
+    background-color:  #fdcfdad5;
+    height: 200px;
+    text-align: center;
+    border-radius: 10px;
     
+
+}
+#shopping-info{
+    text-align: center;
+    background-image: url("image/Rectangle\ 9.png");
+    height: 350px;
+    width: 1070px;
+    margin-top: 70px;
+    margin-left: 140px;
+
     
+}
+#shopping-info input {
+    width: 600px;
+    height: 30px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+}
+#shopping-details{
+    padding-top: 100px;
+    
+}
+#shopping-details button{
+    background-color: #E55473;
+    width: 80px;
+    height: 30px;
+    border:none;
+    border-radius: 5px;
+
 }
